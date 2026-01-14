@@ -36,6 +36,8 @@ This project is to enter a raffle to win a cute dog NFT. The protocol should do 
   - You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z)`
 
 ## Quickstart
+- Commit Hash: 18b57e6d6afceacff187864b9cc1ecc8f7645d55
+- In Scope:
 
 ```
 git clone https://github.com/Cyfrin/4-puppy-raffle-audit
